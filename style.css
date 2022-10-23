@@ -1,3 +1,4 @@
+
 html,
 body {
     height: 100%;
@@ -46,11 +47,11 @@ button::before {
     transition: all .3s ease-in-out 0s;
 }
 
-.button:hover,
+/* .button:hover,
 .button:focus {
     color: #313133;
     transform: translateY(-6px);
-}
+} */
 
 button:hover::before,
 button:focus::before {
